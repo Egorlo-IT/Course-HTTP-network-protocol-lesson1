@@ -1,0 +1,13 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "Сетевой протокол HTTP. Урок 1. Устройство HTTP",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "Korobeinikov Egor",
+  "license": "ISC"
+}
